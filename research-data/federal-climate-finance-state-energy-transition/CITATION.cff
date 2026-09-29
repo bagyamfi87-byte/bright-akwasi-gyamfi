@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite the accompanying manuscript and this data repository."
+title: "Research data for Federal Climate Finance and State Energy Transition in the United States: The Allocation-Conversion Wedge"
+type: dataset
+authors:
+  - family-names: "Gyamfi"
+    given-names: "Bright Akwasi"
+year: 2026
+version: "1.0"
+date-released: 2026-09-29
+repository-code: "https://github.com/bagyamfi87-byte/bright-akwasi-gyamfi"
+keywords:
+  - climate finance
+  - energy transition
+  - renewable energy
+  - carbon intensity
+  - U.S. states
+  - USAspending
+  - EIA SEDS
