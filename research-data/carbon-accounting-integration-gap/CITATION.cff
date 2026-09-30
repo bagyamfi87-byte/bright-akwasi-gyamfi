@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite the associated manuscript and this repository."
+title: "Carbon Accounting Integration Gap: Documentary Coding Data and Reproducibility Files"
+type: dataset
+authors:
+  - family-names: Kuffour
+    given-names: Thomas Adjei
+  - family-names: Lee
+    given-names: Yvonne Lean Ee
+  - family-names: Yusof
+    given-names: Ashaari Bin
+  - family-names: Husni Zai
+    given-names: Mohamed Ashraf Bin
+  - family-names: Gyamfi
+    given-names: Bright Akwasi
+repository-code: "https://github.com/bagyamfi87-byte/bright-akwasi-gyamfi/tree/main/research-data/carbon-accounting-integration-gap"
+license: CC-BY-4.0
+keywords:
+  - carbon accounting
+  - institutional interoperability
+  - CAIIF
+  - CAIG
+  - Malaysia
+  - documentary analysis
