@@ -1,0 +1,49 @@
+Economy,Pillar,Principal official evidence,Stable locator / provision,Status,Coding rationale
+Malaysia,CA1,Government of Malaysia BTR1/CRT; ACSR NSRF,BTR1 inventory boundary/CRT; NSRF Scope 1-3 disclosure architecture,O,National and corporate reporting boundaries are explicit and operative.
+Malaysia,CA2,BTR1; Energy Commission GEF 2022-2024; NSRF,BTR1 methods; GEF calculation/validation note; NSRF GHG metrics,O,Quantification procedures and official electricity factors are documented.
+Malaysia,CA3,Energy Commission GEF 2017-2022 and 2022-2024; BTR1,Regional GEF tables; recalculation/revision note; inventory factor structures,O,Official factor sources exist for inventory and electricity accounting.
+Malaysia,CA4,BTR1; UNFCCC TERR 2026,"QA/QC, uncertainty and recalculation sections; technical expert review",O,Quality controls and independent national-level review are documented.
+Malaysia,CA5,BTR1/CRT; ACSR NSRF,CRT filing tables; national transparency reporting; corporate disclosure requirements,O,National and corporate reporting routes are operative.
+Malaysia,CA6,UNFCCC TERR 2026; ACSR 2026; proposed RUUPIN,BTR1 technical review; assurance timetable 2028-2030; proposed external-auditor provisions,P-Phased / P-Proposed,"National review is operational, while corporate assurance is phased and facility verification remains proposed."
+Malaysia,CA7,NRES National Carbon Market Policy 2026; proposed RUUPIN,National carbon registry and information-platform provisions,P-Developing,Integrated registry/platform architecture is announced but not yet a completed nationwide backbone.
+Malaysia,CA8,NDC RAP 2025; National Carbon Market Policy 2026,NDC monitoring/feedback; MRV-registry-carbon-market linkage,P-Developing,"Governance roles exist, but a fully operational facility-MRV-to-pricing feedback loop is not yet evidenced."
+China,CA1,MEE sector technical specifications; State Council Order No. 775,Covered-sector boundary and enterprise/facility applicability provisions,O,Sector-specific ETS boundaries are explicit for covered industries.
+China,CA2,"MEE power, steel, cement and aluminium specifications","Accounting equations, activity/production data and calculation methods",O,Operational sector quantification rules are documented.
+China,CA3,MEE sector specifications,Specified default/sector factors and calculation parameters,O,Factor architecture is embedded in sector accounting specifications.
+China,CA4,MEE 2025 market report; sector data-quality rules,"Data-quality control plans, monthly evidence and supervisory review",O,Operational data-quality controls are documented for covered sectors.
+China,CA5,MEE ETS reporting specifications,Enterprise annual reporting and platform filing requirements,O,Reporting obligations and filing routes are explicit.
+China,CA6,MEE verification specifications,Provincial verification and sector verification requirements,O,Independent verification is part of the covered-sector ETS chain.
+China,CA7,MEE National Carbon Market Development Report 2025,"National management platform, registry and trading-system data exchange",O,Digital management and registry functions are operational for covered sectors.
+China,CA8,State Council Order No. 775; MEE market report,"ETS administration, allowance surrender and compliance functions",O,Verified data are connected to national ETS compliance.
+Japan,CA1,MOE SHK system; Manual v6.1,Specified-emitter coverage and reporting boundary rules,O,Mandatory emitter coverage is established.
+Japan,CA2,MOE Manual v6.1,Calculation methods and reporting procedures,O,Standardised calculation procedures are operative.
+Japan,CA3,MOE official factor system / Manual v6.1,Official electricity and fuel factors,O,Official factors support statutory reporting.
+Japan,CA4,MOE SHK system / Manual v6.1,"Standardised manuals, revision control and reporting checks",O,Documented quality and consistency controls support reporting.
+Japan,CA5,MOE SHK system; EEGS,Specified-emitter reporting and electronic submission,O,Mandatory reporting and digital filing are operational.
+Japan,CA6,METI GX-ETS 2026,Registered confirmation bodies and confirmation of reported emissions,O,The FY2026 compliance layer includes independent confirmation.
+Japan,CA7,EEGS; METI ERMS,Electronic reporting and GX-ETS system support,O,Electronic reporting infrastructure is operational.
+Japan,CA8,METI GX-ETS 2026,Allowance administration and compliance functions,O,Reported/confirmed emissions are connected to GX-ETS compliance.
+South Korea,CA1,GIR; Framework Act,Controlled-emitter and national inventory coverage,O,National and controlled-emitter boundaries are explicit.
+South Korea,CA2,GIR national MRV guidelines,"Measurement, reporting and verification guidelines",O,National MRV methods are institutionalised.
+South Korea,CA3,GIR country-specific factor system,Development and verification of country-specific GHG emission factors,O,Country-specific factors are formally verified.
+South Korea,CA4,GIR inventory management system,National/sector inventory verification and database management,O,Quality assurance and database management are operational.
+South Korea,CA5,Framework Act Art. 27; NGMS,Controlled-emitter GHG statements and system filing,O,Emitter reporting is mandatory and digitally managed.
+South Korea,CA6,Framework Act Art. 27,External verification before submission,O,Covered entities submit externally verified statements.
+South Korea,CA7,GIR NGMS,"Emission reports, verification reports and monitoring plans stored in NGMS; registry linkage",O,Operational digital data management is documented.
+South Korea,CA8,Framework Act; NGMS/K-ETS registry,Target management and emissions-trading compliance linkage,O,Verified data are connected to K-ETS compliance.
+India,CA1,India BTR1/NID/CRT; CCTS procedure,National inventory scope; obligated-entity coverage,O,National and CCTS boundaries are documented.
+India,CA2,CCTS detailed procedure,GHG-emission-intensity accounting rules,O,Quantification rules for obligated entities are operational.
+India,CA3,CEA CO2 Baseline Database v22.0,Versioned grid CO2 factor database,O,A version-controlled national electricity factor source is available.
+India,CA4,BTR/NID; CCTS procedure,Inventory QA/QC and compliance data requirements,O,Quality controls are documented in national and CCTS processes.
+India,CA5,CCTS procedure; BEE materials,"Obligated-entity reporting, data formats and compliance procedures",O,Reporting responsibilities and procedures are established.
+India,CA6,BEE ACVA register,Accredited Carbon Verification Agency framework,O,Accredited verifier architecture is operational.
+India,CA7,CCTS institutional architecture,Grid India registry role; early compliance-cycle IT infrastructure,P-Developing,"Registry roles are designated, but the end-to-end cycle was still maturing at the cutoff."
+India,CA8,Ministry of Power CCTS; parliamentary reply 12 Mar 2026,BEE administrator; Grid India registry; CERC regulator; target assignment,O,"Core governance and compliance roles are legally assigned, although certificate issuance was still pending."
+Singapore,CA1,Carbon Pricing Act 2018; MRV Regulations 2018,"Act ss. 7, 11-13; facility and reporting thresholds/boundaries",O,Reportable/taxable facility boundaries are legally specified.
+Singapore,CA2,MRV Regulations 2018,"Part 2, especially rr. 3-10: activity data, computation, monitoring plans and measurement systems",O,Facility quantification requirements are explicit.
+Singapore,CA3,MRV Regulations 2018,Definitions/conversion factors and approved monitoring-plan calculation basis,O,Factor use is governed within facility MRV.
+Singapore,CA4,MRV Regulations 2018,"Recordkeeping, measurement systems and verification controls",O,Data-quality and record controls are legally specified.
+Singapore,CA5,Carbon Pricing Act; MRV Regulations,Act ss. 11-13; emissions reports and monitoring plans,O,Facility reporting requirements and filing obligations are operative.
+Singapore,CA6,MRV Regulations 2018,Part 3 verification; Part 4 accreditation and independence,O,"External verification, accreditation and independence are codified."
+Singapore,CA7,NEA EDMA requirements,Electronic filing through EDMA,O,Digital submission is integrated into facility administration.
+Singapore,CA8,Carbon Pricing Act 2018,Part 5 carbon pricing; verified facility reports feed carbon-tax administration,O,Verified facility information is directly connected to tax compliance.
