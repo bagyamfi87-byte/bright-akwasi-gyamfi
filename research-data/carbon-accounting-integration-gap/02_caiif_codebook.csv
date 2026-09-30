@@ -1,0 +1,9 @@
+ID,Pillar,Operational definition,Documentary evidence required
+CA1,Accounting boundary and coverage,"Gases, sectors, organisational boundaries, facility perimeter and Scope 1/2/3 coverage.","Explicit boundary, gas/sector coverage, consolidation or facility-perimeter rules."
+CA2,Measurement and quantification,"Activity data, metering, direct measurement, equations, tiers and calculation procedures.","Measurement rules, activity-data requirements, formulas, tier logic and sampling."
+CA3,Emission-factor architecture,"Official national, sector, fuel and electricity factors and procedures for updating them.","Official factor lists, grid factors, default factors, versioning and revisions."
+CA4,Data quality and QA/QC,"Completeness, consistency, uncertainty, recalculation, record retention and audit trail.","QA/QC plans, uncertainty analysis, recalculation rules and data-quality controls."
+CA5,Reporting architecture,"Reporting templates, frequency, responsibilities, filing routes and disclosure requirements.","Statutory reports, inventory tables, templates, filing deadlines and disclosure rules."
+CA6,Verification and assurance,"Independent verification/assurance, reviewer competence, accreditation and independence.","Verification protocols, assurance requirements and accredited verifier arrangements."
+CA7,Digital data infrastructure,"Electronic filing, databases, registries, traceability and system interoperability.","Digital portals, registry functions, linked databases and data exchange."
+CA8,Governance and policy integration,"Mandates, coordination, enforcement, review and use of verified carbon data in policy/compliance.","Defined institutional roles, enforcement, compliance use, carbon pricing and feedback."
